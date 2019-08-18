@@ -1,0 +1,2 @@
+# recipe
+Angular application
